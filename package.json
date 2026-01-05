@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "Next Level Web Development",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "description": "",
   "dependencies": {
     "@prisma/adapter-pg": "^7.2.0",
